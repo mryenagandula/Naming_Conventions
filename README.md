@@ -1,4 +1,4 @@
-# Naming Conventions | Koseksi 
+# Naming Conventions | Mr Yenagandula
 
 ### Naming Conventions In Detail
 - The main intention of naming convention in javascript to write readable code. 
